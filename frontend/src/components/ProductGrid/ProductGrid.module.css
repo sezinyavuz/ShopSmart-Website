@@ -1,0 +1,7 @@
+/* src/components/ProductGrid.module.css */
+.productGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+flex:3;
+}
